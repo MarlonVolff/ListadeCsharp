@@ -1,0 +1,14 @@
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\bin\Debug\net8.0\ListaExer07.exe
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\bin\Debug\net8.0\ListaExer07.deps.json
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\bin\Debug\net8.0\ListaExer07.runtimeconfig.json
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\bin\Debug\net8.0\ListaExer07.dll
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\bin\Debug\net8.0\ListaExer07.pdb
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\ListaExer07.GeneratedMSBuildEditorConfig.editorconfig
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\ListaExer07.AssemblyInfoInputs.cache
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\ListaExer07.AssemblyInfo.cs
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\ListaExer07.csproj.CoreCompileInputs.cache
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\ListaExer07.dll
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\refint\ListaExer07.dll
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\ListaExer07.pdb
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\ListaExer07.genruntimeconfig.cache
+E:\aleatorios\AvaliativaCsharp\ListaExer07\ListaExer07\obj\Debug\net8.0\ref\ListaExer07.dll

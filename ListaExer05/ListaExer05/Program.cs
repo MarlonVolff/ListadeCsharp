@@ -1,0 +1,10 @@
+﻿Filme filmes = new Filme("Algum Filme :)", "Suspence", 10);
+Console.WriteLine("Nome do filme: " + filmes.Titulo);
+Console.WriteLine("Gênero do filme: " + filmes.Genero);
+Console.WriteLine("Duração do filme: " + filmes.Duracao + " Minutos");
+Console.WriteLine();
+filmes.Estado();
+filmes.LocacaoFilme();
+filmes.Estado();
+filmes.Devolucao();
+filmes.Estado();
